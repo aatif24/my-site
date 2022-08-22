@@ -1,6 +1,7 @@
 {
   "name": "my-site",
   "version": "0.1.0",
+  "author": "aatif",
   "private": true,
   "scripts": {
     "dev": "next dev",
